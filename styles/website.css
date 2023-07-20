@@ -1,0 +1,36 @@
+/* common shared style */
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: 0px;
+    color: #FFF;
+font-size: 20px;
+font-weight: 700;
+}
+
+/* header related styles */
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 50px 240px 0px 100px;
+    display: flex;
+    align-items: center;
+  
+    
+}
+
+.banner {
+    /* padding: 50px 240px 0px 100px; */
+    
+}
+.header .banner-pic{
+width: 500px;
+}
