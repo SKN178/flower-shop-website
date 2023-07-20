@@ -39,7 +39,7 @@ body {
 
 /* main section styles */
 main {
-    max-width: 1920px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
@@ -67,3 +67,14 @@ main {
 .info-title {
     text-align: center;
 }
+
+.crm-container {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 100px 100px 50px 100px;
+    width: 1440px;
+    height: 320px;
+    justify-content: space-around;
+}
+
