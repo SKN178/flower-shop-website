@@ -122,23 +122,76 @@ main {
     color: #E55473;
 }
 
-.insta-title{
+.insta-title {
     color: #272727;
-text-align: center;
-font-size: 40px;
-font-weight: 800;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
 }
-.insta-description{
+
+.insta-description {
     color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.latest-deal {
+    background-image: url('../Flower\ Asset/')
+}
+
+.latest-deal-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.ld-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.deal-box {
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    padding: 160px 50px 40px 30px;
+    text-align: center;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.footer-container {
+    background: #111010;
+    width: 1922px;
+    height: 449px;
+    margin-right: 0px;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
 text-align: center;
-font-size: 18px;
+font-size: 16px;
 font-weight: 400;
 }
-
-
-.latest-deal{
-    color: #272727;
-text-align: center;
-font-size: 40px;
+.footer-design{
+    color: #FFF;
+font-size: 48px;
 font-weight: 800;
 }
